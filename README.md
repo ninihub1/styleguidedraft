@@ -1,5 +1,5 @@
 # Style Guide Draft
-### 1 Adherence to PEP 8:
+### Adherence to PEP 8:
 - Ensure Python code meets PEP 8 requirements.
 
 ### Consistency: 
