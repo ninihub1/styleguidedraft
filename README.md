@@ -29,7 +29,7 @@
             </h2>
           </header>
           <p>
-            Please see the STYLE_GUIDE.md file for information on the style guide draft..
+            Please see the STYLE_GUIDE.md file for information on the style guide draft.
           </p>
         </section>
       </article>
